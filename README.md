@@ -1,2 +1,3 @@
 # Project-SimpleWebMediaPlayer
 A customized web-based media player project for fun...
+Some of the media player software was complicated for non-techies to use, so i tossed this js/html salad together using differnt code snippets and solutions from the internet supermarket as a fun project to help solve a small problem/challenge.
